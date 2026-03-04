@@ -5,7 +5,6 @@
 🚀 Conversational AI Engineer | Cloud Developer | AI Automation Builder  
 
 I build AI-powered applications, intelligent automation systems, and scalable cloud solutions that solve real business problems.
-
 ---
 
 ## 🚀 About Me
@@ -51,22 +50,6 @@ I build AI-powered applications, intelligent automation systems, and scalable cl
 - MySQL
 - Firebase Firestore
 - SQLite
-
----
-
-## 🚀 Projects
-
-### 🏥 Healthcare Conversational AI
-AI assistant automating hospital workflows using Dialogflow CX and Python.
-
-### ✈️ Flight Booking Chatbot
-Natural language flight booking system integrated with APIs.
-
-### ☀️ Solar Automation Platform
-AI chatbot generating automated quotations and customer workflows.
-
-### 📍 Smart Location-Based App
-Geofencing application delivering real-time offers and engagement.
 
 ---
 
