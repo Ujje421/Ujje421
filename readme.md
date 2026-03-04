@@ -1,5 +1,88 @@
-# 💫 About Me:
-# 👋 Hi, I'm Ujjwal Jagtap<br><br>🚀 Conversational AI Engineer | Cloud Developer | AI Automation Builder  <br><br>I build AI-powered applications, intelligent automation systems, and scalable cloud solutions that solve real business problems.<br><br>---<br><br>## 🚀 About Me<br>- 🤖 Conversational AI Engineer (Dialogflow CX / ES)<br>- ☁️ Cloud Developer (Google Cloud & AWS)<br>- 🧠 Building AI Agents & Business Automation Systems<br>- 💻 Backend & API Developer<br>- 🚀 Interested in Startups, AI Products & Innovation<br><br>---<br><br>## 🧠 Tech Stack<br><br>### 🤖 AI & Conversational Systems<br>- Dialogflow CX / ES<br>- NLP & Intent Design<br>- Voice & Chatbot Automation<br>- IVR Systems<br>- Webhook Fulfillment<br><br>### 💻 Programming Languages<br>- Python<br>- Java<br>- C++<br>- SQL<br>- HTML<br>- CSS<br><br>### ⚙️ Backend & Tools<br>- Flask<br>- REST APIs<br>- JSON<br>- Git & GitHub<br>- Postman<br><br>### ☁️ Cloud Platforms<br>- Google Cloud Platform<br>- Cloud Run<br>- Firebase<br>- AWS (EC2, S3, IAM)<br><br>### 🗄 Databases<br>- MySQL<br>- Firebase Firestore<br>- SQLite<br><br>---<br><br>## 🚀 Projects<br><br>### 🏥 Healthcare Conversational AI<br>AI assistant automating hospital workflows using Dialogflow CX and Python.<br><br>### ✈️ Flight Booking Chatbot<br>Natural language flight booking system integrated with APIs.<br><br>### ☀️ Solar Automation Platform<br>AI chatbot generating automated quotations and customer workflows.<br><br>### 📍 Smart Location-Based App<br>Geofencing application delivering real-time offers and engagement.<br><br>---<br><br>## 📈 GitHub Stats<br><br>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)<br><br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)<br><br>---<br><br>## 🌐 Connect With Me<br>📧 Email: ujjwaljagtap7@gmail.com  <br>💼 LinkedIn: https://linkedin.com/in/ujjwal-jagtap  <br>🌐 Portfolio: https://ujjwal-portfolio-website-m59d.vercel.app  <br><br>---<br><br>## ⚡ Interests<br>AI • Automation • Startups • Cloud Computing • Technology<br><br>---<br><br>⭐ Always building something innovative with AI.
+# 💫 About Me
+
+# 👋 Hi, I'm Ujjwal Jagtap
+
+🚀 Conversational AI Engineer | Cloud Developer | AI Automation Builder  
+
+I build AI-powered applications, intelligent automation systems, and scalable cloud solutions that solve real business problems.
+
+---
+
+## 🚀 About Me
+- 🤖 Conversational AI Engineer (Dialogflow CX / ES)
+- ☁️ Cloud Developer (Google Cloud & AWS)
+- 🧠 Building AI Agents & Business Automation Systems
+- 💻 Backend & API Developer
+- 🚀 Interested in Startups, AI Products & Innovation
+
+---
+
+## 🧠 Tech Stack
+
+### 🤖 AI & Conversational Systems
+- Dialogflow CX / ES
+- NLP & Intent Design
+- Voice & Chatbot Automation
+- IVR Systems
+- Webhook Fulfillment
+
+### 💻 Programming Languages
+- Python
+- Java
+- C++
+- SQL
+- HTML
+- CSS
+
+### ⚙️ Backend & Tools
+- Flask
+- REST APIs
+- JSON
+- Git & GitHub
+- Postman
+
+### ☁️ Cloud Platforms
+- Google Cloud Platform
+- Cloud Run
+- Firebase
+- AWS (EC2, S3, IAM)
+
+### 🗄 Databases
+- MySQL
+- Firebase Firestore
+- SQLite
+
+---
+
+## 🚀 Projects
+
+### 🏥 Healthcare Conversational AI
+AI assistant automating hospital workflows using Dialogflow CX and Python.
+
+### ✈️ Flight Booking Chatbot
+Natural language flight booking system integrated with APIs.
+
+### ☀️ Solar Automation Platform
+AI chatbot generating automated quotations and customer workflows.
+
+### 📍 Smart Location-Based App
+Geofencing application delivering real-time offers and engagement.
+
+---
+
+## 🌐 Connect With Me
+📧 ujjwaljagtap7@gmail.com  
+💼 https://linkedin.com/in/ujjwal-jagtap  
+🌐 https://ujjwal-portfolio-website-m59d.vercel.app  
+
+---
+
+## ⚡ Interests
+AI • Automation • Startups • Cloud Computing • Technology
+
+---
+
+⭐ Always building intelligent systems with AI
 
 
 ## 🌐 Socials:
