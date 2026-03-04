@@ -16,43 +16,6 @@ I build AI-powered applications, intelligent automation systems, and scalable cl
 
 ---
 
-## 🧠 Tech Stack
-
-### 🤖 AI & Conversational Systems
-- Dialogflow CX / ES
-- NLP & Intent Design
-- Voice & Chatbot Automation
-- IVR Systems
-- Webhook Fulfillment
-
-### 💻 Programming Languages
-- Python
-- Java
-- C++
-- SQL
-- HTML
-- CSS
-
-### ⚙️ Backend & Tools
-- Flask
-- REST APIs
-- JSON
-- Git & GitHub
-- Postman
-
-### ☁️ Cloud Platforms
-- Google Cloud Platform
-- Cloud Run
-- Firebase
-- AWS (EC2, S3, IAM)
-
-### 🗄 Databases
-- MySQL
-- Firebase Firestore
-- SQLite
-
----
-
 ## 🌐 Connect With Me
 📧 ujjwaljagtap7@gmail.com  
 💼 https://linkedin.com/in/ujjwal-jagtap  
