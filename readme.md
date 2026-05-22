@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ujjwal Jagtap
 
-🚀 Conversational AI Engineer | Cloud Developer | AI Automation Builder  
+🚀 Conversational AI Engineer | Backend Developer | AI Automation Builder  
 
 I build AI-powered applications, intelligent automation systems, and scalable cloud solutions that solve real business problems.
 ---
