@@ -19,7 +19,7 @@ I build AI-powered applications, intelligent automation systems, and scalable cl
 ## 🌐 Connect With Me
 📧 ujjwaljagtap7@gmail.com  
 💼 https://linkedin.com/in/ujjwal-jagtap  
-🌐 https://ujjwal-portfolio-website-m59d.vercel.app  
+🌐 https://ujjwal-jagtap-portfolio.vercel.app/
 
 ---
 
