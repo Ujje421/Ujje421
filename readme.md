@@ -134,16 +134,7 @@ ujjwal = {
 
 </div>
 
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<!-- Trophies API is currently down (Vercel 402 Error). Uncomment below when it's back online! -->
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Ujje421&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy) -->
-
-</div>
+<!-- Trophies section removed temporarily due to API outage -->
 
 ---
 
