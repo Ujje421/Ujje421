@@ -150,7 +150,6 @@ ujjwal = {
 
 </div>
 
-> ⚠️ **To activate the snake:** Create `.github/workflows/snake.yml` in your profile repo — see the setup file included below.
 
 ---
 
