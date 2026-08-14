@@ -125,8 +125,8 @@ ujjwal = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ujje421&show_icons=true&bg_color=0d0d0d&title_color=A855F7&text_color=8892a4&icon_color=00D4FF&border_color=1a1a2e&border_radius=12&count_private=true&hide_border=false" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujje421&layout=compact&bg_color=0d0d0d&title_color=A855F7&text_color=8892a4&border_color=1a1a2e&border_radius=12&hide_border=false" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=Ujje421&show_icons=true&bg_color=0d0d0d&title_color=A855F7&text_color=8892a4&icon_color=00D4FF&border_color=1a1a2e&border_radius=12&count_private=true&hide_border=false" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ujje421&layout=compact&bg_color=0d0d0d&title_color=A855F7&text_color=8892a4&border_color=1a1a2e&border_radius=12&hide_border=false" />
 
 <br/>
 
