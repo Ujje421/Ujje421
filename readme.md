@@ -125,12 +125,12 @@ ujjwal = {
 
 <div align="center">
 
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=Ujje421&show_icons=true&bg_color=0d0d0d&title_color=A855F7&text_color=8892a4&icon_color=00D4FF&border_color=1a1a2e&border_radius=12&count_private=true&hide_border=false" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=Ujje421&show_icons=true&bg_color=0d0d0d&title_color=A855F7&text_color=8892a4&icon_color=00D4FF&border_color=1a1a2e&border_radius=12&count_private=true&hide_border=false&rank_icon=github&include_all_commits=true" />
 <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ujje421&layout=compact&bg_color=0d0d0d&title_color=A855F7&text_color=8892a4&border_color=1a1a2e&border_radius=12&hide_border=false" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Ujje421&theme=black-ice&background=0d0d0d&border=1a1a2e&ring=A855F7&fire=00D4FF&currStreakLabel=A855F7&sideLabels=8892a4&currStreakNum=ffffff&sideNums=ffffff&dates=8892a4&border_radius=12" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ujje421&theme=black-ice&background=0d0d0d&border=1a1a2e&ring=A855F7&fire=00D4FF&currStreakLabel=A855F7&sideLabels=8892a4&currStreakNum=ffffff&sideNums=ffffff&dates=8892a4&border_radius=12" />
 
 </div>
 
@@ -140,7 +140,8 @@ ujjwal = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ujje421&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Trophies API is currently down (Vercel 402 Error). Uncomment below when it's back online! -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Ujje421&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 </div>
 
