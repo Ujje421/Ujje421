@@ -1,114 +1,104 @@
 <div align="center">
 
-<!-- Terminal boot header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0A0F1C,50:0D1B3E,100:0A0F1C&text=Ujjwal%20N%20Jagtap&fontColor=00D4FF&fontSize=48&fontAlignY=45&desc=Building%20intelligent%20systems%20%7C%20AI%20%E2%9C%95%20Backend%20%E2%9C%95%20Cloud&descAlignY=65&descSize=16&descFontColor=8892A4&stroke=00D4FF&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=120&section=header&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  $ whoami                                                        ║
-║  > Conversational AI Engineer & Backend Architect                ║
-║  $ location                                                      ║
-║  > Nashik, Maharashtra, India 🇮🇳                                 ║
-║  $ status                                                        ║
-║  > Building intelligent systems @ Sarvajna Media  [ACTIVE] ▊    ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=3000&pause=1000&color=A855F7&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=70&lines=Hey%2C+I'm+Ujjwal+Jagtap+%F0%9F%91%8B" alt="Name" />
+</a>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2500&pause=800&color=00D4FF&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Conversational+AI+Engineer;Backend+%26+Cloud+Architect;RAG+%26+LLM+Systems+Builder;Dialogflow+CX+%7C+FastAPI+%7C+GCP" alt="Roles" />
+</a>
 
 </div>
+
+<br/>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-jagtap)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=0A0F1C)](https://ujjwaljagtap.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-F0F6FF?style=for-the-badge&logo=github&logoColor=0A0F1C)](https://github.com/Ujje421)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujjwaljagtap7@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://ujjwaljagtap.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=0d0d0d)](https://github.com/Ujje421)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujjwaljagtap7@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ujje421&style=for-the-badge&color=00D4FF&labelColor=0A0F1C&label=PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=Ujje421&style=for-the-badge&color=A855F7&labelColor=0d0d0d&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## ⚡ System Profile
+## 🧬 About Me
 
 ```python
-class UjjwalJagtap:
-    role        = "Conversational AI Engineer & Backend Developer"
-    company     = "Sarvajna Media"
-    location    = "Nashik, India 🇮🇳"
-    
-    core_stack  = ["Dialogflow CX", "Python", "FastAPI", "Flask", "GCP", "Firebase"]
-    
-    domains     = [
-        "Conversational AI & Virtual Agents",
-        "RAG Architecture & LLM Integration",
-        "Distributed Backend Systems",
-        "Cloud-Native API Development",
-        "Event-Driven Microservices",
-    ]
-    
-    currently   = "Building SM-CommerceOS — internal SaaS for warehouse ops"
-    learning    = ["System Design", "Kafka", "Kubernetes", "Advanced RAG Pipelines"]
-    
-    philosophy  = "Ship real systems. Understand them deeply. Build better ones."
+ujjwal = {
+    "role"      : "Conversational AI Engineer @ Sarvajna Media",
+    "location"  : "Nashik, Maharashtra 🇮🇳",
+    "core"      : ["Dialogflow CX", "FastAPI", "Python", "GCP", "RAG Architecture"],
+    "building"  : "SM-CommerceOS — warehouse SaaS dashboard",
+    "learning"  : ["Kafka", "Kubernetes", "Advanced System Design"],
+    "belief"    : "Ship real systems. Understand them deeply. Build better ones."
+}
 ```
+
+- 🤖 Designing & deploying **Conversational AI** and **virtual agent** solutions using Dialogflow CX  
+- 🔧 Building **scalable backend APIs** with FastAPI, Flask, and GCP cloud integrations  
+- 🧠 Architecting **RAG pipelines**, LLM workflows, and intelligent document retrieval systems  
+- 🏗️ Exploring **distributed systems** — Kafka, Saga, CQRS, Event Sourcing, ReBAC  
+- 🚀 Currently building **SM-CommerceOS** — a Linear/Vercel-inspired ops dashboard  
 
 ---
 
-## 🛠 Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**🤖 Conversational AI & NLP**
+**Languages**
+
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,cpp,react&theme=dark)](https://skillicons.dev)
+
+**Backend & APIs**
+
+[![My Skills](https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,nestjs&theme=dark)](https://skillicons.dev)
+
+**Cloud & DevOps**
+
+[![My Skills](https://skillicons.dev/icons?i=gcp,firebase,aws,docker,git&theme=dark)](https://skillicons.dev)
+
+**Databases & Messaging**
+
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,redis,sqlite,mongodb&theme=dark)](https://skillicons.dev)
+
+**Frontend & Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=react,vite,flutter,postman,github&theme=dark)](https://skillicons.dev)
+
+</div>
+
+<div align="center">
+
+**🤖 AI & Conversational**
 
 ![Dialogflow CX](https://img.shields.io/badge/Dialogflow_CX-FF6F00?style=flat-square&logo=dialogflow&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Architecture-A855F7?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![RAG Architecture](https://img.shields.io/badge/RAG_Architecture-7B61FF?style=flat-square&logoColor=white)
-![NLU Optimization](https://img.shields.io/badge/NLU_Optimization-00D4FF?style=flat-square&logoColor=white)
-![Intent Modeling](https://img.shields.io/badge/Intent_Modeling-0A66C2?style=flat-square&logoColor=white)
-![Slot Filling](https://img.shields.io/badge/Slot_Filling-1DA462?style=flat-square&logoColor=white)
+![NLU](https://img.shields.io/badge/NLU_Optimization-00D4FF?style=flat-square)
+![Intent Modeling](https://img.shields.io/badge/Intent_Modeling-0A66C2?style=flat-square)
+![Slot Filling](https://img.shields.io/badge/Slot_Filling-1DA462?style=flat-square)
 
-**⚙️ Backend & APIs**
+**⚙️ Architecture Patterns**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-4285F4?style=flat-square&logo=google&logoColor=white)
-
-**☁️ Cloud & Infrastructure**
-
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**🗄 Databases & Messaging**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-**🧠 Architecture Patterns**
-
-![Microservices](https://img.shields.io/badge/Microservices-7B61FF?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-A855F7?style=flat-square)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Event Sourcing](https://img.shields.io/badge/Event_Sourcing-00D4FF?style=flat-square)
 ![CQRS](https://img.shields.io/badge/CQRS-FF6F00?style=flat-square)
 ![Saga Pattern](https://img.shields.io/badge/Saga_Pattern-1DA462?style=flat-square)
-![ReBAC](https://img.shields.io/badge/ReBAC_(Zanzibar)-E0234E?style=flat-square)
 ![Bloom Filters](https://img.shields.io/badge/Bloom_Filters-3776AB?style=flat-square)
+![ReBAC](https://img.shields.io/badge/ReBAC_(Zanzibar)-EA4335?style=flat-square)
+![gRPC](https://img.shields.io/badge/gRPC-00D4FF?style=flat-square&logo=grpc&logoColor=white)
 
 </div>
 
@@ -116,130 +106,93 @@ class UjjwalJagtap:
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 BrainBase AI Knowledge Copilot
-> **RAG · FastAPI · Python · React · Vite**
-
-Full-stack enterprise RAG platform for intelligent document retrieval. Built semantic ingestion, chunking, vector indexing, and real-time streaming response pipelines. Asynchronous architecture optimized for scale.
-
-`RAG` `FastAPI` `Vector Search` `Streaming` `React`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 CommerceFlow — Event-Driven Platform
-> **NestJS · Kafka · PostgreSQL · Redis · OpenSearch · Docker**
-
-Cloud-native e-commerce backend with 9 independently deployable microservices. Implemented Saga Pattern, CQRS, Event Sourcing, Transactional Outbox, and AI-powered product recommendations.
-
-`Kafka` `Saga` `CQRS` `Microservices` `NestJS`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 Patrimoine — Zero-Knowledge Inheritance Vault
-> **Node.js · Express · Firebase · GCP · React · Flutter**
-
-Military-grade digital inheritance platform. Zero-knowledge architecture, OAuth 2.0 + JWT auth bridge, SHA-256 PIN hashing, automated emergency protocol via Cloud Functions, and cross-platform (Web + Mobile) delivery.
-
-`Zero-Knowledge` `OAuth 2.0` `GCP` `Flutter` `Firebase`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔗 SwiftZip — Distributed URL Shortener
-> **FastAPI · PostgreSQL · Redis · React · Docker**
-
-High-performance URL platform with Bloom Filter cache penetration prevention, sub-millisecond Redis lookups, fixed-window rate limiting, async GeoIP analytics, and a real-time analytics dashboard.
-
-`Bloom Filter` `Redis` `Rate Limiting` `GeoIP` `FastAPI`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏥 Clinical Nurse Administration Agent
-> **Dialogflow CX · Python Flask · MySQL · GCP**
-
-Healthcare virtual agent automating administrative and scheduling workflows. Built multi-turn conversational flows with intent modeling, contextual entities, and secure REST API integrations with hospital systems.
-
-`Dialogflow CX` `NLU` `Healthcare` `Flask` `GCP`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔑 AuthZ — Zanzibar-Inspired Authorization Platform
-> **NestJS · gRPC · PostgreSQL · Redis · Kafka · OpenTelemetry**
-
-Relationship-Based Access Control (ReBAC) engine inspired by Google Zanzibar. Recursive SQL graph traversal, multi-layer caching, distributed tracing via OpenTelemetry, and multi-tenant architecture.
-
-`ReBAC` `gRPC` `Graph Traversal` `NestJS` `OpenTelemetry`
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Analytics
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ujje421&show_icons=true&theme=tokyonight&bg_color=0A0F1C&title_color=00D4FF&text_color=8892A4&icon_color=7B61FF&border_color=1E2A45&hide_border=false&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujje421&layout=compact&theme=tokyonight&bg_color=0A0F1C&title_color=00D4FF&text_color=8892A4&border_color=1E2A45&hide_border=false" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ujje421&theme=tokyonight&background=0A0F1C&ring=00D4FF&fire=7B61FF&currStreakLabel=00D4FF&sideLabels=8892A4&dates=8892A4&border=1E2A45&stroke=1E2A45&currStreakNum=F0F6FF&sideNums=F0F6FF" />
+| 🔥 Project | 🛠️ Stack | ⚡ Highlights |
+|---|---|---|
+| **🧠 BrainBase AI Knowledge Copilot** | FastAPI · Python · React · RAG | Full-stack enterprise RAG platform — semantic ingestion, vector search, real-time streaming |
+| **🛒 CommerceFlow — E-Commerce Platform** | NestJS · Kafka · PostgreSQL · Redis · Docker | 9-service microservices app — Saga, CQRS, Event Sourcing, Transactional Outbox, AI recommendations |
+| **🔐 Patrimoine — Inheritance Vault** | Node.js · Firebase · GCP · Flutter · React | Zero-knowledge architecture, OAuth 2.0, SHA-256 PIN, automated Emergency Protocol via Cloud Functions |
+| **🔗 SwiftZip — URL Shortener** | FastAPI · PostgreSQL · Redis · Docker | Bloom Filter cache, sub-ms Redis lookups, rate limiting, async GeoIP analytics dashboard |
+| **🏥 Clinical Nurse Agent** | Dialogflow CX · Flask · MySQL · GCP | Healthcare virtual agent with contextual NLU, slot filling, hospital API integrations |
+| **🔑 AuthZ — Authorization Platform** | NestJS · gRPC · PostgreSQL · Kafka · OTel | Google Zanzibar–inspired ReBAC engine, recursive SQL graph traversal, OpenTelemetry tracing |
 
 </div>
 
 ---
 
-## 🏗 Currently Building
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ujje421&show_icons=true&bg_color=0d0d0d&title_color=A855F7&text_color=8892a4&icon_color=00D4FF&border_color=1a1a2e&border_radius=12&count_private=true&hide_border=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujje421&layout=compact&bg_color=0d0d0d&title_color=A855F7&text_color=8892a4&border_color=1a1a2e&border_radius=12&hide_border=false" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Ujje421&theme=black-ice&background=0d0d0d&border=1a1a2e&ring=A855F7&fire=00D4FF&currStreakLabel=A855F7&sideLabels=8892a4&currStreakNum=ffffff&sideNums=ffffff&dates=8892a4&border_radius=12" />
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ujje421&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ujje421/Ujje421/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ujje421/Ujje421/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Ujje421/Ujje421/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+> ⚠️ **To activate the snake:** Create `.github/workflows/snake.yml` in your profile repo — see the setup file included below.
+
+---
+
+## 🗺️ 2026 Roadmap
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│  SM-CommerceOS                                          [WIP]   │
-│  ─────────────────────────────────────────────────────────────  │
-│  Internal SaaS warehouse & commerce operations dashboard        │
-│  Inspired by Linear / Attio / Vercel design principles          │
-│                                                                 │
-│  Stack: React · FastAPI · Firebase · PostgreSQL · GCP           │
-│  Focus: Keyboard-first UX · Information density · Calm UI       │
-└─────────────────────────────────────────────────────────────────┘
+Conversational AI & RAG       ████████████████████  Expert
+Backend (FastAPI / Flask)     ████████████████████  Expert
+GCP & Firebase                ████████████████░░░░  Strong
+Distributed Systems (Kafka)   █████████████░░░░░░░  Growing
+System Design                 ████████████░░░░░░░░  Growing
+Kubernetes & DevOps           ████████░░░░░░░░░░░░  Queued
 ```
 
 ---
 
-## 🎯 2026 Roadmap
+## 🏗️ Currently Building
 
-```
-[██████████] Conversational AI & RAG       ← Deep expertise
-[████████░░] Distributed Systems Design    ← Actively leveling up
-[███████░░░] Kafka / Event Streaming       ← In progress
-[██████░░░░] Kubernetes & DevOps           ← Queued
-[█████░░░░░] Advanced System Design        ← Long-term focus
-```
+> **SM-CommerceOS** — Internal SaaS dashboard for warehouse & commerce ops  
+> Stack: `React` · `FastAPI` · `Firebase` · `PostgreSQL` · `GCP`  
+> Design inspired by Linear × Attio × Vercel — keyboard-first, information-dense, calm
 
 ---
 
 <div align="center">
 
-**"Build systems that understand. Write code that lasts. Ship things that matter."**
+*"Build systems that understand. Write code that lasts. Ship things that matter."*
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-jagtap)
-[![Portfolio](https://img.shields.io/badge/See_My_Work-00D4FF?style=for-the-badge&logo=vercel&logoColor=0A0F1C)](https://ujjwaljagtap.vercel.app)
+[![Portfolio](https://img.shields.io/badge/See_My_Work-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://ujjwaljagtap.vercel.app)
 [![Email](https://img.shields.io/badge/Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujjwaljagtap7@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1C,100:0D1B3E&height=80&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=100&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
