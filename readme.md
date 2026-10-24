@@ -1,189 +1,342 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=120&section=header&animation=fadeIn" width="100%"/>
-
-</div>
-
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=3000&pause=1000&color=A855F7&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=70&lines=Hey%2C+I'm+Ujjwal+Jagtap+%F0%9F%91%8B" alt="Name" />
-</a>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2500&pause=800&color=00D4FF&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Conversational+AI+Engineer;Backend+%26+Cloud+Architect;RAG+%26+LLM+Systems+Builder;Dialogflow+CX+%7C+FastAPI+%7C+GCP" alt="Roles" />
-</a>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:08090D,35:171026,70:28134B,100:08090D&height=220&section=header&text=UJJWAL%20JAGTAP&fontSize=52&fontColor=F8FAFC&fontAlignY=38&desc=CONVERSATIONAL%20AI%20%2F%20PYTHON%20BACKEND%20ENGINEER&descSize=14&descColor=67E8F9&descAlignY=58&animation=fadeIn" alt="Ujjwal Jagtap — Conversational AI and Python Backend Engineer"/>
 
 <br/>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=760&height=45&lines=Engineering+Conversational+AI+Systems;Building+Python+APIs+%26+Webhook+Services;Connecting+Intelligence+to+Real-World+Systems;Dialogflow+CX+%C2%B7+Flask+%C2%B7+Google+Cloud" alt="Engineering focus"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-jagtap)
-[![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://ujjwaljagtap.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=0d0d0d)](https://github.com/Ujje421)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujjwaljagtap7@gmail.com)
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ujje421&style=for-the-badge&color=A855F7&labelColor=0d0d0d&label=PROFILE+VIEWS"/>
+<a href="https://www.linkedin.com/in/ujjwal-jagtap"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/Ujje421"><img src="https://img.shields.io/badge/GITHUB-Explore%20Work-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:ujjwaljagtap7@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Get%20in%20Touch-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Ujje421&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
+
+**I build conversational experiences and the backend systems that power them.**
+
+<sub>Dialogflow CX / ES · Python · REST APIs · Google Cloud</sub>
 
 </div>
 
 ---
 
-## 🧬 About Me
+## `01` / Engineering profile
+
+I'm a Software Engineer at Sarvajna Media, working across conversational AI, backend integrations, and cloud-connected applications.
+
+My focus is on building virtual-agent workflows that do more than understand user intent: they collect the right information, follow the right conversation path, call backend services, and return useful responses.
+
+I work across the boundary between **conversation design and backend engineering** — from Dialogflow flows, pages, intents, and parameters to Python webhook handlers and API integrations.
 
 ```python
-ujjwal = {
-    "role"      : "Conversational AI Engineer @ Sarvajna Media",
-    "location"  : "Nashik, Maharashtra 🇮🇳",
-    "core"      : ["Dialogflow CX", "FastAPI", "Python", "GCP", "RAG Architecture"],
-    "building"  : "SM-CommerceOS — warehouse SaaS dashboard",
-    "learning"  : ["Kafka", "Kubernetes", "Advanced System Design"],
-    "belief"    : "Ship real systems. Understand them deeply. Build better ones."
-}
+class UjjwalJagtap:
+    role = "Software Engineer"
+    location = "Nashik, India"
+
+    primary_domains = [
+        "Conversational AI",
+        "Python Backend Engineering",
+        "API & Webhook Integrations",
+        "Cloud-Connected Applications",
+    ]
+
+    core_stack = [
+        "Dialogflow CX / ES",
+        "Python",
+        "Flask",
+        "REST APIs",
+        "Google Cloud",
+    ]
+
+    product_work = [
+        "Pretail Commerce",
+        "Patrimony",
+    ]
+
+    engineering_principle = (
+        "Make complex systems understandable, "
+        "integrated, and reliable."
+    )
 ```
 
-- 🤖 Designing & deploying **Conversational AI** and **virtual agent** solutions using Dialogflow CX  
-- 🔧 Building **scalable backend APIs** with FastAPI, Flask, and GCP cloud integrations  
-- 🧠 Architecting **RAG pipelines**, LLM workflows, and intelligent document retrieval systems  
-- 🏗️ Exploring **distributed systems** — Kafka, Saga, CQRS, Event Sourcing, ReBAC  
-- 🚀 Currently building **SM-CommerceOS** — a Linear/Vercel-inspired ops dashboard  
-
----
-
-## 🛠️ Tech Stack
-
 <div align="center">
 
-**Languages**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=151020&height=2" width="100%" alt=""/>
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,cpp,react&theme=dark)](https://skillicons.dev)
+<table>
+<tr>
+<td align="center" width="33%">
 
-**Backend & APIs**
+### AI
 
-[![My Skills](https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,nestjs&theme=dark)](https://skillicons.dev)
+**Conversational systems**
 
-**Cloud & DevOps**
+<sub>Intents · Entities · Context · Routing</sub>
 
-[![My Skills](https://skillicons.dev/icons?i=gcp,firebase,aws,docker,git&theme=dark)](https://skillicons.dev)
+</td>
+<td align="center" width="33%">
 
-**Databases & Messaging**
+### PYTHON
 
-[![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,redis,sqlite,mongodb&theme=dark)](https://skillicons.dev)
+**Backend services**
 
-**Frontend & Tools**
+<sub>Webhooks · REST APIs · Validation</sub>
 
-[![My Skills](https://skillicons.dev/icons?i=react,vite,flutter,postman,github&theme=dark)](https://skillicons.dev)
+</td>
+<td align="center" width="33%">
+
+### CLOUD
+
+**Service integrations**
+
+<sub>Google Cloud · Deployment · Data</sub>
+
+</td>
+</tr>
+</table>
 
 </div>
 
+## `02` / Conversational AI engineering
+
 <div align="center">
 
-**🤖 AI & Conversational**
-
-![Dialogflow CX](https://img.shields.io/badge/Dialogflow_CX-FF6F00?style=flat-square&logo=dialogflow&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Architecture-A855F7?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![NLU](https://img.shields.io/badge/NLU_Optimization-00D4FF?style=flat-square)
-![Intent Modeling](https://img.shields.io/badge/Intent_Modeling-0A66C2?style=flat-square)
-![Slot Filling](https://img.shields.io/badge/Slot_Filling-1DA462?style=flat-square)
-
-**⚙️ Architecture Patterns**
-
-![Microservices](https://img.shields.io/badge/Microservices-A855F7?style=flat-square)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Event Sourcing](https://img.shields.io/badge/Event_Sourcing-00D4FF?style=flat-square)
-![CQRS](https://img.shields.io/badge/CQRS-FF6F00?style=flat-square)
-![Saga Pattern](https://img.shields.io/badge/Saga_Pattern-1DA462?style=flat-square)
-![Bloom Filters](https://img.shields.io/badge/Bloom_Filters-3776AB?style=flat-square)
-![ReBAC](https://img.shields.io/badge/ReBAC_(Zanzibar)-EA4335?style=flat-square)
-![gRPC](https://img.shields.io/badge/gRPC-00D4FF?style=flat-square&logo=grpc&logoColor=white)
+<img src="https://img.shields.io/badge/DIALOGFLOW-CX%20%2F%20ES-8B5CF6?style=flat-square" alt="Dialogflow CX and ES"/>
+<img src="https://img.shields.io/badge/BACKEND-PYTHON-3776AB?style=flat-square" alt="Python backend"/>
+<img src="https://img.shields.io/badge/INTEGRATION-REST%20%2F%20WEBHOOKS-0891B2?style=flat-square" alt="REST and webhooks"/>
 
 </div>
 
----
+### From user intent to backend execution
 
-## 🚀 Featured Projects
+```mermaid
+flowchart TD
+    A["User message"] --> B["Dialogflow CX / ES"]
+    B --> C["Intent and entity matching"]
+    C --> D["Parameters and session context"]
+    D --> E["Flow, page and route selection"]
+    E --> F["Webhook fulfillment"]
+    F --> G["Python / Flask service"]
+    G --> H["External API or data service"]
+    H --> I["Structured response"]
+    I --> J["Conversational response"]
+
+    classDef ai fill:#24153D,stroke:#A78BFA,color:#FFFFFF
+    classDef backend fill:#102A32,stroke:#67E8F9,color:#FFFFFF
+    classDef result fill:#17251D,stroke:#86EFAC,color:#FFFFFF
+
+    class B,C,D,E ai
+    class F,G,H backend
+    class I,J result
+```
+
+### Areas of engineering
+
+- **Dialogflow CX / ES:** intents, entities, parameters, session context, flow and page routing, transitions, and fulfillment.
+- **Agent migration and maintenance:** conversational logic migration, flow restructuring, debugging, and integration fixes.
+- **Python fulfillment:** webhook handlers, request/response processing, service integrations, and backend business logic.
+- **API integration:** structured payloads, HTTP requests, validation, error handling, and external service connectivity.
+- **Cloud integration:** deploying and connecting application services using Google Cloud tooling where appropriate.
+
+### Professional project experience
+
+<details>
+<summary><b>Healthcare virtual agent</b> — Dialogflow CX and backend integrations</summary>
+
+A healthcare virtual-agent project involving conversational workflows for scheduling, billing, laboratory services, clinical care, insurance, payments, and information requests.
+
+Engineering areas include:
+
+- Organizing conversation flows, pages, and routing.
+- Collecting and handling contextual parameters.
+- Integrating fulfillment services with backend operations.
+- Maintaining consistent conversational behavior across workflows.
+
+**Technology:** Dialogflow CX, Python/Flask, REST APIs, MySQL, Google Cloud.
+
+</details>
+
+<details>
+<summary><b>Waste Management Agent</b> — Conversational workflow engineering</summary>
+
+Professional work involving a waste-management conversational agent and associated application integrations.
+
+Use this section to document the actual flows, fulfillment services, API integrations, and implementation details that can be shared publicly.
+
+**Technology:** Dialogflow, Python/backend integrations, and relevant cloud services.
+
+</details>
+
+<sub>Professional experience is summarized at a high level. Proprietary source code, customer data, internal architecture, and confidential implementation details are intentionally excluded.</sub>
+
+## `03` / Python & backend engineering
 
 <div align="center">
 
-| 🔥 Project | 🛠️ Stack | ⚡ Highlights |
-|---|---|---|
-| **🧠 BrainBase AI Knowledge Copilot** | FastAPI · Python · React · RAG | Full-stack enterprise RAG platform — semantic ingestion, vector search, real-time streaming |
-| **🛒 CommerceFlow — E-Commerce Platform** | NestJS · Kafka · PostgreSQL · Redis · Docker | 9-service microservices app — Saga, CQRS, Event Sourcing, Transactional Outbox, AI recommendations |
-| **🔐 Patrimoine — Inheritance Vault** | Node.js · Firebase · GCP · Flutter · React | Zero-knowledge architecture, OAuth 2.0, SHA-256 PIN, automated Emergency Protocol via Cloud Functions |
-| **🔗 SwiftZip — URL Shortener** | FastAPI · PostgreSQL · Redis · Docker | Bloom Filter cache, sub-ms Redis lookups, rate limiting, async GeoIP analytics dashboard |
-| **🏥 Clinical Nurse Agent** | Dialogflow CX · Flask · MySQL · GCP | Healthcare virtual agent with contextual NLU, slot filling, hospital API integrations |
-| **🔑 AuthZ — Authorization Platform** | NestJS · gRPC · PostgreSQL · Kafka · OTel | Google Zanzibar–inspired ReBAC engine, recursive SQL graph traversal, OpenTelemetry tracing |
+<img src="https://capsule-render.vercel.app/api?type=rect&color=151020&height=2" width="100%" alt=""/>
+
+### BEHIND EVERY INTELLIGENT WORKFLOW IS A SERVICE THAT MUST WORK.
 
 </div>
 
----
+My backend focus is on the services connecting AI agents, application workflows, and external systems.
 
-## 📊 GitHub Stats
+| Engineering area | Focus |
+|---|---|
+| API development | REST endpoints, request/response contracts, structured JSON |
+| Webhook fulfillment | Intent parameters, session data, fulfillment responses |
+| Application logic | Validation, conditional workflows, service orchestration |
+| Integration | HTTP clients, external APIs, database connectivity |
+| Reliability | Exception handling, useful logs, predictable failure responses |
+| Cloud | Service deployment, configuration, and connectivity |
+
+### Core backend stack
 
 <div align="center">
 
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=Ujje421&show_icons=true&bg_color=0d0d0d&title_color=A855F7&text_color=8892a4&icon_color=00D4FF&border_color=1a1a2e&border_radius=12&count_private=true&hide_border=false&rank_icon=github&include_all_commits=true" />
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ujje421&layout=compact&bg_color=0d0d0d&title_color=A855F7&text_color=8892a4&border_color=1a1a2e&border_radius=12&hide_border=false" />
+<img src="https://skillicons.dev/icons?i=python,flask,fastapi,nodejs,express,git,github&theme=dark" alt="Python, Flask, FastAPI, Node.js, Express, Git and GitHub"/>
+
+</div>
+
+**Python:** Primary backend language for webhook services, integrations, and API-oriented development.
+
+**Flask:** Lightweight web services and webhook fulfillment.
+
+**FastAPI:** API development and continued exploration of modern Python service patterns.
+
+**Node.js:** Backend application development and integration work.
+
+**Databases:** MySQL, SQLite, Firestore, and other technologies as applicable to individual projects.
+
+**Cloud:** Google Cloud, Cloud Run, Cloud Functions, and Firebase where appropriate to the implementation.
+
+---
+
+## `04` / Featured products
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=151020&height=2" width="100%" alt=""/>
+
+### PRODUCTS I'M BUILDING
+
+</div>
+
+### `01` Pretail Commerce
+
+**Commerce operations / Multi-tenant software**
+
+A commerce operations platform for local-business use cases, with a focus on tenant-aware application workflows and maintainable software architecture.
+
+**Engineering focus**
+
+- Multi-tenant application behavior and business-profile isolation.
+- Commerce workflows and operational interfaces.
+- Frontend/backend integration and data consistency.
+- Application performance and maintainability.
+
+`React` `TypeScript` `TanStack Query` `Tailwind CSS` `Firebase`
+
+
+### `02` Patrimony
+
+**Digital assets / Documents / Nominee information**
+
+A web and mobile product for organizing personal assets, important documents, and nominee information.
+
+**Engineering focus**
+
+- Asset and document management workflows.
+- Authentication and access-control considerations.
+- Web and mobile application development.
+- Reliable data handling and user-facing workflows.
+
+`Node.js` `React` `Firebase` `Flutter`
+
+
+---
+
+## `05` / Technology landscape
+
+<div align="center">
+
+### LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp&theme=dark" alt="Python, JavaScript, TypeScript and C++"/>
+
+### BACKEND & APPLICATIONS
+
+<img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,express,react,flutter&theme=dark" alt="Flask, FastAPI, Node.js, Express, React and Flutter"/>
+
+### CLOUD & INFRASTRUCTURE
+
+<img src="https://skillicons.dev/icons?i=gcp,firebase,aws,docker,git,github&theme=dark" alt="Google Cloud, Firebase, AWS, Docker, Git and GitHub"/>
+
+### DATA & DEVELOPER TOOLS
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,postman&theme=dark" alt="MySQL, PostgreSQL, SQLite, MongoDB, Redis and Postman"/>
+
+</div>
+
+**AI application development:** Dialogflow CX/ES, webhook fulfillment, NLU, RAG concepts, LLM application patterns, and LangChain.
+
+**Architecture and systems:** REST API design, service integration, caching, event-driven architecture concepts, and system design.
+
+<sub>Icons indicate technologies associated with my work and learning. They do not imply equal depth of experience or production use in every technology.</sub>
+
+---
+
+## `06` / GitHub analytics
+
+<div align="center">
+
+### ACTIVITY / CODE / CONSISTENCY
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ujje421&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=67E8F9&rank_icon=github&include_all_commits=true" height="180" alt="GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujje421&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" height="180" alt="Most-used languages"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ujje421&theme=transparent&hide_border=true&ring=A78BFA&fire=67E8F9&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="90%" alt="GitHub contribution streak"/>
+
+</div>
+
+<sub>Statistics are generated by external services and may be delayed, unavailable, or subject to their own calculation rules. Language statistics do not measure engineering proficiency.</sub>
+
+---
+
+## `07` / Contribution graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ujje421/Ujje421/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
+
+</div>
+
+<sub>Setup required: configure a GitHub Actions workflow in the profile repository to generate the contribution snake SVG and publish it to the `output` branch. Until configured, this image will not appear.</sub>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08090D,45:201039,100:08090D&height=140&section=footer" width="100%" alt=""/>
+
+### LET'S BUILD SOMETHING MEANINGFUL.
+
+**Conversational AI · Python Backend · Cloud-Connected Systems**
+
+<a href="https://www.linkedin.com/in/ujjwal-jagtap"><img src="https://img.shields.io/badge/LET'S%20CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+<a href="mailto:ujjwaljagtap7@gmail.com"><img src="https://img.shields.io/badge/GET%20IN%20TOUCH-Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email"/></a>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ujje421&theme=black-ice&background=0d0d0d&border=1a1a2e&ring=A855F7&fire=00D4FF&currStreakLabel=A855F7&sideLabels=8892a4&currStreakNum=ffffff&sideNums=ffffff&dates=8892a4&border_radius=12" />
-
-</div>
-
-<!-- Trophies section removed temporarily due to API outage -->
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ujje421/Ujje421/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ujje421/Ujje421/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Ujje421/Ujje421/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
-
----
-
-## 🗺️ 2026 Roadmap
-
-```
-Conversational AI & RAG       ████████████████████  Expert
-Backend (FastAPI / Flask)     ████████████████████  Expert
-GCP & Firebase                ████████████████░░░░  Strong
-Distributed Systems (Kafka)   █████████████░░░░░░░  Growing
-System Design                 ████████████░░░░░░░░  Growing
-Kubernetes & DevOps           ████████░░░░░░░░░░░░  Queued
-```
-
----
-
-## 🏗️ Currently Building
-
-> **SM-CommerceOS** — Internal SaaS dashboard for warehouse & commerce ops  
-> Stack: `React` · `FastAPI` · `Firebase` · `PostgreSQL` · `GCP`  
-> Design inspired by Linear × Attio × Vercel — keyboard-first, information-dense, calm
-
----
-
-<div align="center">
-
-*"Build systems that understand. Write code that lasts. Ship things that matter."*
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-jagtap)
-[![Portfolio](https://img.shields.io/badge/See_My_Work-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://ujjwaljagtap.vercel.app)
-[![Email](https://img.shields.io/badge/Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujjwaljagtap7@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=100&section=footer&animation=fadeIn" width="100%"/>
+<sub>Build thoughtfully. Ship reliably. Keep learning.</sub>
 
 </div>
